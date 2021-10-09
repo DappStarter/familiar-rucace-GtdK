@@ -1,0 +1,19 @@
+{
+    "name": "Atmaca Game",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/name": "Atmaca Token",
+        "/category/asset_value_tracking/core-token/symbol": "ATTO",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "100000000000"
+    }
+}
